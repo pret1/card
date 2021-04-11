@@ -38,6 +38,17 @@ body {
     margin-top: 10px;
 }
 
+.fl img:nth-child(2) {
+    position: relative;
+    top: -104px;
+    left: 6px;
+}
+.fl img:nth-child(3) {
+    position: relative;
+    top: -310px;
+    left: -18px;
+}
+
 .title1 {
     width: 280px;
     height: 75px;
